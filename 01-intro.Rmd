@@ -1,0 +1,52 @@
+---
+title: "Chapter 1   Introduction"
+author: "Jyztine Reyes & Valeria Palache"
+date: "10-17-22"
+output: html_document
+---
+
+Welcome! EasyWay 3.0 is a free, open source resource for easily, painlessly and permanently quitting a variety of addictions and addictive behaviors.
+
+No matter who you are and what type of addiction, with EasyWay 3.0, there is no judgement, shame, guilt, or pressure to make painful sacrifices in order to quit. Nor is there any need to even quit or reduce your usage at all while reading - as you'll see soon enough.
+
+You're probably having more than just a few doubts about that possibility - and you absolutely should! The idea of somehow quitting just like that, instantly and without any pain at all, seems to undermine and go against everything you've learned about addiction. But if what you've learned was truly correct, would you be reading this at all?
+
+Maybe you identify with the following questions, just like millions of other "addicts":
+
+* Are you spending far more time using a drug or engaging in a behavior than you intended?
+* Are you unsuccessful in attempts to stop or limit your usage, apart from temporary streaks of various lengths?
+* Has time spent using interfered with or taken precedence over the personal, professional or social aspects of your life?
+* Do you go out of your way to keep your usage secret from those around you?
+* Do you experience a constant cycle of arousal and euphoria before and during your usage, but feelings of shame, guilt, and remorse after?
+* Do you rely on using as a crutch or stress reliever despite whatever negative effects it may have?
+* Has your usage caused any other negative consequences in your personal or professional life?
+
+As cliche as these questions may be, they represent the horrible reality filled with stigma and shame every "addict" regardless of their life circumstances is trapped in. Whether you're a long-term smoker
+
+## 1.1 About
+
+EasyWay 3.0 is a rewrite of the late Allen Carr's [*EasyWay to Stop Smoking.*](https://www.allencarr.com/) Written over 30 years ago, EasyWay continues to help millions around the world effortlessly quit smoking and enjoy a new life free from addiction. Countless other works have been inspired by EasyWay, such as [EasyPeasy](https://easypeasymethod.org/), a free resource on how to quit pornography, and
+
+EasyWay 3.0 aims to improve upon the methods of these works, apply them to a wider range of addictions and addictive behaviors, and make them easily accessible to all.
+
+The method of EasyWay is entirely different from anything you might've already seen or tried. It is instant, equally effective for heavy and casual users alike, requires no willpower, causes no painful withdrawal symptoms, doesn't require replacing addiction with another equally destructive habit, and permanent.
+
+Perhaps you're expecting this book to try and scare you into quitting, listing off the dozens of proven health issues you're putting yourself at risk of with your particular drug and expecting you to stop being such a weak-skinned ____for the sake of your health. If that's the case, you'll be sorely disappointed. As you'll soon find out, these scare tactics fall short far more often than not, mostly because they fail to remove the reasons for using in the first place.
+
+Virtually every other method out there for quitting take a similar approach or combination of approaches: using willpower to resist using your drug, cutting down to a "once every *n* days" schedule, and so on. Again, these are also generally ineffective, and for good reason; turning something into a forbidden fruit isn't how you treat addiction.
+
+The common misconception - probably _____ - is that an individual chooses to use a drug or engage in a behavior. Whether your drug is nicotine, alcohol, heroin, or one of many others, you didn't choose to use it more than anyone else. Yet at the same time, you certainly are completely conscious and in control of your body, and not being forced at gunpoint when you do.
+
+The truth is somewhere in the middle. Like a smoker who unconsciously relies on a cigarette to get through the day, an alcoholic who drinks for the illusory comfort of numbness, or a porn addict who urgently needs porn-induced fantasies to continue having feelings towards their partner, all users eventually and inexplicably "decide" that their usage is no longer a habit, but a critical part of their life, something that'd result in panic, stress, insecurity, and emptiness if they could no longer have it.
+
+Every single addiction is created and kept alive by the same thing: FEAR! All users continue to use not because they enjoy and want to, but because they falsely believe they cannot live without it.
+
+More specifically, the fear that in order to quit, we must endure a slow, painful period of misery, deprivation, and horrible cravings that we're not allowed to satisfy. The fear that every moment of your life will be spent fighting off an endless wave of uncontrollable impulses. Fear that stressful life events will be absolute hell without being able to turn to a tried-and-true crutch. Fear that you'll lose confidence, concentration, and even your identity without using.
+
+All addictions are traps that rely on the same mechanisms of fear and doubt. Conventional ways to quit fail so often because they unintentionally amplify this fear beyond belief; you find yourself going through a period of feeling miserable and deprived, but more importantly a fear that life will only get worse if this method continues - and the fear is only worsened once this attempt at quitting inevitably fails.
+
+So what does Easyway
+
+## 1.2 Before reading
+
+We won't wish you good luck - as you'll soon find out, you won't need it at all.
